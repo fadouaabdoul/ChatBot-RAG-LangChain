@@ -11,4 +11,4 @@ Project Name: Créer des Chatbots RAG
 This project is intended for educational purposes as part of the DataCamp learning path. Please refer to DataCamp's terms of use for content guidelines.
 
 
-<p align="center">Built with ❤️ using LangChain · RAG · Python</p>Share
+<p align="center">Built with ❤️ using LangChain · RAG · Python</p>
